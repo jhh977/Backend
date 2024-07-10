@@ -8,3 +8,4 @@ if __name__ == "__main__":
         config = yaml.safe_load(file)
         print(f"Server IP Address: {config.get('ServerIPAddress')}")
         
+#test
